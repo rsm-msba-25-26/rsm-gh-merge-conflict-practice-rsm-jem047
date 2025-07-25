@@ -36,3 +36,5 @@ Your name: Jesse Miller Date: 07.25.2025
 If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
 
 > Note: You can copy-and-paste images directly into Piazza rather than having to upload an image file. This will make your post quicker and easier to review
+
+fin
